@@ -53,7 +53,7 @@ You are free to use, modify, and distribute it with proper attribution.
 
 ## 👤 Author
 
-**Tiago do Y. Rodrigues**  
+**Tiago Bento do Ó Rodrigues**  
 Instituto Superior Técnico, University of Lisbon (IST)  
 📧 Email: [tiagodoorodrigues@tecnico.ulisboa.pt]  
 🔗 GitHub: [https://github.com/username](https://github.com/IST1110971)
