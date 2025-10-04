@@ -1,19 +1,18 @@
-# Digital Twin of a Distribution Center — Data Processing and Visualization
+# 🏭 Digital Twin of a Distribution Center — Data Processing and Visualization
 
-This repository contains the Python scripts developed for my Master's thesis:
+This repository contains the Python scripts and Jupyter notebooks developed for my Master's thesis:  
 **"Digital Twin of a Distribution Center – Data Cleaning, Normalization and Visualization of Product Flows"**,  
-carried out in collaboration with **Jerónimo Martins**, owner of Pingo Doce and several other brands.
+carried out in collaboration with **Jerónimo Martins**, owner of Pingo Doce and other retail brands.
 
-The main objective of the project is to process, clean, and visualize logistics data from different warehouses in order to identify bottlenecks, detect inefficiencies, and support optimization of product flows — including both **non-perishable** and **perishable (fresh and frozen)** goods.
+The project aims to process, clean, and visualize logistics data from multiple warehouses to identify bottlenecks, detect inefficiencies, and optimize product flows — including both **non-perishable** and **perishable (fresh and frozen)** goods.
 
 ---
 
-## 📊 About the Project
+## 📘 Abstract
 
-Jerónimo Martins is developing a **digital twin** of one of its distribution centers.  
-Using **Information Visualization** and **data analytics**, the system enables real-time observation of product flows and supports predictive analysis to optimize warehouse operations.
-
-This repository extends a previous project that handled non-perishable products, adding support for perishable goods and ensuring normalized data integration across multiple warehouses.
+Jerónimo Martins is developing a **digital twin** of one of its distribution centers to improve visibility and efficiency in logistics operations.  
+Using **Information Visualization** and **data analytics**, this project extends an existing system for non-perishable goods to also handle fresh and frozen products.  
+The result is an integrated dataset that supports optimization and visualization of product flows across different warehouse sections.
 
 ---
 
@@ -23,17 +22,15 @@ This repository extends a previous project that handled non-perishable products,
 - **pandas** — data manipulation and normalization  
 - **NumPy** — numerical computation  
 - **Matplotlib / Seaborn** — visualization  
-- **Jupyter Notebook** — analysis and prototyping environment  
-- **OutSystems** — low-code platform used for developing and integrating the visualization dashboards within the digital twin system  
+- **Jupyter Notebook** — exploration and documentation  
+- **OutSystems** — low-code platform used to integrate and visualize results within the digital twin dashboards  
 
 ---
 
-## 🗂️ Repository Structure
-
 ## 📓 Jupyter Notebook
-
-The repository includes a Jupyter Notebook named [`data_cleaning.ipynb`](./data_cleaning.ipynb), which documents the complete **data cleaning and normalization process**.  
-It provides a step-by-step view of how the datasets were loaded, filtered, transformed, and validated using the **pandas** library.  
+The repository includes a Jupyter Notebook named [`JMData.ipynb`](./JMData.ipynb), which documents the complete **data cleaning and normalization process**.  
+It provides a step-by-step view of how the datasets were loaded, filtered, transformed, and validated using the **pandas** library. 
 
 This notebook serves as a reproducible record of the preprocessing workflow described in the thesis.
+
 
