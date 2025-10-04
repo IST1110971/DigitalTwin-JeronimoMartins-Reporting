@@ -1,7 +1,7 @@
-# 🏭 Digital Twin of a Distribution Center — Data Processing and Visualization
+# 🏭 Digital Twin: Creation of a Digital Twin of a Jerónimo Martins Distribution Center
 
 This repository contains the Python scripts and Jupyter notebooks developed for my Master's thesis:  
-**"Digital Twin of a Distribution Center – Data Cleaning, Normalization and Visualization of Product Flows"**,  
+**"Digital Twin: Creation of a Digital Twin of a Jerónimo Martins Distribution Center"**,  
 carried out in collaboration with **Jerónimo Martins**, owner of Pingo Doce and other retail brands.
 
 The project aims to process, clean, and visualize logistics data from multiple warehouses to identify bottlenecks, detect inefficiencies, and optimize product flows — including both **non-perishable** and **perishable (fresh and frozen)** goods.
@@ -32,5 +32,31 @@ The repository includes a Jupyter Notebook named [`JMData.ipynb`](./JMData.ipynb
 It provides a step-by-step view of how the datasets were loaded, filtered, transformed, and validated using the **pandas** library. 
 
 This notebook serves as a reproducible record of the preprocessing workflow described in the thesis.
+
+## 📘 Citation
+
+If you use this repository, please cite:
+
+> Rodrigues, T. (2025). *Digital Twin: Creation of a Digital Twin of a Jerónimo
+Martins Distribution Centers*.  
+> Master’s Thesis, Instituto Superior Técnico, University of Lisbon.  
+> Supervisors: Prof. Sandra Gama.
+
+---
+
+## 🧾 License
+
+This project is distributed under the **MIT License**.  
+You are free to use, modify, and distribute it with proper attribution.
+
+---
+
+## 👤 Author
+
+**Tiago do Y. Rodrigues**  
+Instituto Superior Técnico, University of Lisbon (IST)  
+📧 Email: [tiagodoorodrigues@tecnico.ulisboa.pt]  
+🔗 GitHub: [https://github.com/username](https://github.com/IST1110971)
+
 
 
