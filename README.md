@@ -30,3 +30,10 @@ This repository extends a previous project that handled non-perishable products,
 
 ## 🗂️ Repository Structure
 
+## 📓 Jupyter Notebook
+
+The repository includes a Jupyter Notebook named [`data_cleaning.ipynb`](./data_cleaning.ipynb), which documents the complete **data cleaning and normalization process**.  
+It provides a step-by-step view of how the datasets were loaded, filtered, transformed, and validated using the **pandas** library.  
+
+This notebook serves as a reproducible record of the preprocessing workflow described in the thesis.
+
